@@ -1,6 +1,6 @@
 <div class="fb-video" 
 	data-href="https://www.facebook.com/OMGParadisePage/videos/882441295112294/" 
-	data-width="500" 
+	data-width="800" 
 	data-autoplay="true">
 </div>
 I came across this video in my facebook feed, which is like amazing.
