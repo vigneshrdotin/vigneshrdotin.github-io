@@ -1,5 +1,5 @@
 ---
-title:  "How Mom teachers her child!"
+title:  "How Mom teach her child!"
 date:   2015-09-30 01:09:00
 description: An true example of hardwork never fails
 ---
