@@ -1,0 +1,7 @@
+<div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-video" data-allowfullscreen="1" data-href="/OMGParadisePage/videos/vb.225933684096395/882441295112294/?type=3"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/OMGParadisePage/videos/882441295112294/"><a href="https://www.facebook.com/OMGParadisePage/videos/882441295112294/"></a><p>Teach your children to fish so that they can feed themselves.  :)</p>Posted by <a href="https://www.facebook.com/OMGParadisePage">OMG Social</a> on Monday, April 13, 2015</blockquote></div></div>
+
+I came across this video in my facebook feed, which is like amazing.
+
+I always do wonder how come so many businessman without an MBA or any business degrees were able to run a successful business.
+
+Now I think, I got part of an answer, these people get it correct by doing things and getting failed or by looking at others failure in their business.
