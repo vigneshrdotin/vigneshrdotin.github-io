@@ -12,7 +12,7 @@ baseurl: /
 domain_name: 'http://www.vigneshr.in'
 google_analytics: 'UA-68237706-1'
 disqus: true
-disqus_shortname: 'your-disqus-shortname'
+disqus_shortname: 'vigneshrdotin'
 
 # Details for the RSS feed generator
 url:            'http://www.vigneshr.in'
