@@ -4,7 +4,7 @@
  <title></title>
  <link href="http://www.vigneshr.in//atom.xml" rel="self"/>
  <link href="http://www.vigneshr.in//"/>
- <updated>2015-09-30T00:35:47+05:30</updated>
+ <updated>2015-09-30T00:46:01+05:30</updated>
  <id>http://www.vigneshr.in</id>
  <author>
    <name></name>
@@ -17,7 +17,11 @@
    <link href="http://www.vigneshr.in//2015/mom-inspiration/"/>
    <updated>2015-09-30T00:00:00+05:30</updated>
    <id>http://www.vigneshr.in/2015/mom-inspiration</id>
-   <content type="html">&lt;div id=&quot;fb-root&quot;&gt;&lt;/div&gt;&lt;script&gt;(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = &quot;//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.3&quot;;  fjs.parentNode.insertBefore(js, fjs);}(document, &#39;script&#39;, &#39;facebook-jssdk&#39;));&lt;/script&gt;&lt;div class=&quot;fb-video&quot; data-allowfullscreen=&quot;1&quot; data-href=&quot;/OMGParadisePage/videos/vb.225933684096395/882441295112294/?type=3&quot;&gt;&lt;div class=&quot;fb-xfbml-parse-ignore&quot;&gt;&lt;blockquote cite=&quot;https://www.facebook.com/OMGParadisePage/videos/882441295112294/&quot;&gt;&lt;a href=&quot;https://www.facebook.com/OMGParadisePage/videos/882441295112294/&quot;&gt;&lt;/a&gt;&lt;p&gt;Teach your children to fish so that they can feed themselves.  :)&lt;/p&gt;Posted by &lt;a href=&quot;https://www.facebook.com/OMGParadisePage&quot;&gt;OMG Social&lt;/a&gt; on Monday, April 13, 2015&lt;/blockquote&gt;&lt;/div&gt;&lt;/div&gt;
+   <content type="html">&lt;div class=&quot;fb-video&quot; 
+    data-href=&quot;https://www.facebook.com/OMGParadisePage/videos/882441295112294/&quot; 
+    data-width=&quot;500&quot; 
+    data-autoplay=&quot;true&quot;&gt;
+&lt;/div&gt;
 
 &lt;p&gt;I came across this video in my facebook feed, which is like amazing.&lt;/p&gt;
 
