@@ -21,6 +21,9 @@ authorTwitter:  'vickyonit'
 
 permalink:       /:year/:title/
 
+gems:
+  - jekyll-sitemap
+
 defaults:
     -
         scope:
