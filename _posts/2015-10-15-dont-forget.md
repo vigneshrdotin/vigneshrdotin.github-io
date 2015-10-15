@@ -1,6 +1,6 @@
 ---
 title:  "Don't Forget!"
-date:   2015-09-29 10:40:00
+date:   2015-10-15 20:05:00
 description: Not anymore!
 ---
 I am sure there are times, you would have forgotten things and I did too. When I was checking online for a solution on this people where area asking us to write notes about what to be done and use it to remind ourself. An important step is you have to write it and keep it in a place which you remember and you also need to remember taking this note and going through the list which is as equal as remembering things. 
