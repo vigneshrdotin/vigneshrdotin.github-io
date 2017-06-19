@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>http://www.vigneshr.in//2015/dont-forget/</loc>
-    <lastmod>2015-10-16T01:35:00+05:30</lastmod>
-  </url>
-  <url>
-    <loc>http://www.vigneshr.in//2015/television-advertisement/</loc>
-    <lastmod>2015-10-03T03:40:00+05:30</lastmod>
-  </url>
-  <url>
-    <loc>http://www.vigneshr.in//2015/whatsapp-everywhere/</loc>
-    <lastmod>2015-10-02T04:30:00+05:30</lastmod>
-  </url>
-  <url>
-    <loc>http://www.vigneshr.in//2015/mom-inspiration/</loc>
-    <lastmod>2015-09-30T06:39:00+05:30</lastmod>
-  </url>
-  <url>
-    <loc>http://www.vigneshr.in//2015/hello-world/</loc>
-    <lastmod>2015-09-29T16:10:00+05:30</lastmod>
-  </url>
-  <url>
-    <loc>http://www.vigneshr.in//404.html</loc>
-  </url>
-  <url>
-    <loc>http://www.vigneshr.in//about/</loc>
-  </url>
-  <url>
-    <loc>http://www.vigneshr.in//</loc>
-  </url>
+<url>
+<loc>http://www.vigneshr.in//hello-world/</loc>
+<lastmod>2015-09-29T16:10:00+05:30</lastmod>
+</url>
+<url>
+<loc>http://www.vigneshr.in//mom-inspiration/</loc>
+<lastmod>2015-09-30T06:39:00+05:30</lastmod>
+</url>
+<url>
+<loc>http://www.vigneshr.in//whatsapp-everywhere/</loc>
+<lastmod>2015-10-02T04:30:00+05:30</lastmod>
+</url>
+<url>
+<loc>http://www.vigneshr.in//television-advertisement/</loc>
+<lastmod>2015-10-03T03:40:00+05:30</lastmod>
+</url>
+<url>
+<loc>http://www.vigneshr.in//dont-forget/</loc>
+<lastmod>2015-10-16T01:35:00+05:30</lastmod>
+</url>
+<url>
+<loc>http://www.vigneshr.in//404.html</loc>
+</url>
+<url>
+<loc>http://www.vigneshr.in//about/</loc>
+</url>
+<url>
+<loc>http://www.vigneshr.in//</loc>
+</url>
 </urlset>

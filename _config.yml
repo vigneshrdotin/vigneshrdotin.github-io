@@ -19,10 +19,14 @@ url:            'http://www.vigneshr.in'
 author:         'Vignesh Rajendran'
 authorTwitter:  'vickyonit'
 
-permalink:       /:year/:title/
-
+permalink:       /:title/
+gem: [jekyll-admin]
 gems:
   - jekyll-sitemap
+  - jekyll-paginate
+
+sass:
+  style: compressed
 
 defaults:
     -
